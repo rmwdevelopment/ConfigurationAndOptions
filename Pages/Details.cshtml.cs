@@ -7,15 +7,15 @@ namespace MicroBlog.Pages
 {
     public class DetailsModel : PageModel
     {
-        private readonly PostStore _store;
+        private readonly IBlogRepository _repo;
 
-        public DetailsModel(PostStore store) => _store = store;
+        public DetailsModel(IBlogRepository repo) => _repo = repo;
 
         public Post? Post { get; private set; }
 
         public IActionResult OnGet(int id)
         {
-            Post = _store.GetById(id);
+            Post = _repo.GetById(id);
             if (Post is null) return NotFound();
             return Page();
         }

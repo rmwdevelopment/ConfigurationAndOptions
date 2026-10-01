@@ -7,12 +7,13 @@ namespace MicroBlog.Pages;
 
 public class IndexModel : PageModel
 {
-    private readonly PostStore _store;
+    private readonly IBlogRepository _repo;
     public List<Post> Posts { get; private set; } = new();
-    public IndexModel(PostStore store) => _store = store;
+    public IndexModel(IBlogRepository repo) => _repo = repo;
+
 
     public void OnGet()
     {
-        Posts = _store.GetAll().ToList();
+        Posts = _repo.GetAll().ToList();
     }
 }

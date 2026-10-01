@@ -4,8 +4,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddSingleton<PostStore>(); //JSON-backed store of blog posts
 
+//Choose which repo to use by swapping the type
+//builder.Services.AddSingleton<IBlogRepository, JsonBlogRepository>();
+builder.Services.AddSingleton<IBlogRepository, InMemoryBlogRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

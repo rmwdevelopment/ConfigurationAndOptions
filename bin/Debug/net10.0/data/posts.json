@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog Post...",
+    "body": "I enjoy classical literature, but all my friends think it\u0027s boring. :(",
+    "createdUtc": "2026-09-24T00:37:21.4029537Z"
+  },
+  {
+    "id": 2,
+    "title": "Snickerdoodle Recipe without life story",
+    "body": "Ingredients:\r\n\u00BD cup (113.5 g) butter room temp\r\n\u00BE cups (150 g) granulated sugar\r\n1 large egg room temp\r\n1 teaspoon vanilla\r\n\u25A21 teaspoon baking powder\r\n\u00BC teaspoon (0.25 teaspoon) salt\r\n1\u2153 cups (185 g) all-purpose flour\r\nCinnamon/Sugar Mixture\r\n3 tablespoon granulated sugar\r\n\u00BD tablespoon (0.5 tablespoon) cinnamon\r\n\r\nInstructions\r\nPreheat oven to 350 F. Line 2 baking sheets with parchment paper.\r\nPlace the butter and sugar in a stand mixer fitted with a paddle attachment. Beat on medium-high speed until light and fluffy, about 3 minutes.\r\nAdd egg and vanilla and mix on low until smooth, about 30 seconds.\r\nSlowly mix in baking powder, salt and flour, being careful not to over mix. I usually stop when I still have some flour remnants around the bowl.\r\nScoop the dough into large balls.\r\nRoll in cinnamon sugar mixture.\r\nPlace 6-8 cookie dough balls on your lined baking sheet. Bake the cookies for 10-13 minutes. You\u0027re looking for a nice light golden brown around the edges.",
+    "createdUtc": "2026-09-24T00:48:22.5237266Z"
+  },
+  {
+    "id": 3,
+    "title": "About Me",
+    "body": "I am a person",
+    "createdUtc": "2026-09-24T00:50:30.6692043Z"
+  },
+  {
+    "id": 4,
+    "title": "Hello Internet",
+    "body": "This is a blog post I am making for fun",
+    "createdUtc": "2026-09-24T01:52:00.8687821Z"
+  }
+]

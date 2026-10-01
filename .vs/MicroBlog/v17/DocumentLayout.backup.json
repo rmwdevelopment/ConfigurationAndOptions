@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\wykof\\fall2026asp.net\\repositoriesanddependencies\\microblog\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\wykof\\fall2026asp.net\\repositoriesanddependencies\\microblog\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\wykof\\fall2026asp.net\\repositoriesanddependencies\\microblog\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\wykof\\fall2026asp.net\\repositoriesanddependencies\\microblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T01:19:01.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T01:19:00.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T01:14:53.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\wykof\\Fall2026ASP.NET\\RepositoriesAndDependencies\\MicroBlog\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T01:13:53.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
